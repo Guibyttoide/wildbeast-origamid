@@ -1,0 +1,13 @@
+body {
+  font-family: 'Vollkorn', Georgia, serif;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  border-radius: 5px;
+}
+
+.col-wide {
+  grid-column: 1 / -1;
+}

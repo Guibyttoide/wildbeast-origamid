@@ -1,0 +1,17 @@
+/* Estilos gerais */
+@import "./css/general.css";
+@import "./css/resets.css";
+
+/* Estrutura geral */
+@import "./css/estrutura.css";
+
+/* Header e Menu */
+@import "./css/header.css";
+
+/* Conteúdo principal e laterais */
+@import "./css/sidenav.css";
+@import "./css/content.css";
+@import "./css/anuncios.css";
+
+/* Footer */
+@import "./css/footer.css";
